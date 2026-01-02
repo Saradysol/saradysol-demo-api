@@ -1,0 +1,13 @@
+{
+  "name": "saradysol-demo-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/basic.test.js",
+    "build": "echo \"Building project...\""
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
